@@ -1,0 +1,83 @@
+#title
+{
+background-color:#ff4c68;
+}
+h1
+{
+  font-size:50px;
+  font-family: cursive;
+  font-style:italic;
+  color:white;
+}
+.navbar-brand
+{
+  font-size:50px;
+  font-family:cursive;
+  font-weight:bold;
+}
+.navbar{
+  padding:10px 50px;
+}
+.nav-item
+{
+  padding-right:50px;
+}
+.mycol
+{
+  padding: 50px 200px;
+}
+.button
+{
+  margin:20px;
+}
+
+#features{
+  position:relative;
+}
+.feature-title{
+  font-size:1.5rem;
+}
+
+.feature-box{
+  padding: 4.5%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+#testimonials{
+  background-color: #ef8172;
+}
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border-radius:50%;
+}
+
+h2{
+  text-align: center;
+  font-size: 40;
+  font-family: cursive;
+  color:white;
+}
+
+#Press{
+  background-color: #ef8172;
+}
